@@ -1,5 +1,6 @@
 title: Nidhi Gupta
 Description: Full Stack Developer
-avatar: "/assets/img/avatar-icon.png"
+logo: "/assets/img/avatar-icon.png"
 round-avatar: true
+show_downloads: true
 theme: jekyll-theme-minimal
