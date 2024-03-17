@@ -2,8 +2,8 @@
 
 #### Below are the list of commands used during this
 
-- DOCTYPE
-* html
++ DOCTYPE
++ html
 + head
 + meta
 + title
