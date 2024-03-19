@@ -25,7 +25,10 @@ MBA : Master in Business Administration (Gold Medalist)
   - Role : Marketing and Sales Head
   - Responsibilities :
 
-##
+### Languages
+
+- #### English
+- #### Finnish (A2 Level)
 
 ### Technical Skills
 
