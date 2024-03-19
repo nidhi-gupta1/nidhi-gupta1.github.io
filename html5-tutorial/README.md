@@ -25,3 +25,4 @@
 - br
 - p
 - pre
+- video
