@@ -1,17 +1,37 @@
 <!DOCTYPE html>
+<!-- DOCTYPE tag specifies it is a HTML5 document and must be the starting tag-->
 <html lang="eng">
   <head>
+    <!-- head tag : Used to contain title, css, javascript, metadata and links to other documents -->
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=display-width intial-space=1.0" />
     <title>Food Recipe</title>
+    <!--title tag : to specify title that will appear in the browser tab, and is used by google to index your application to idenfity
+        what your application is all about, and if someone bookmark your web application URL, this title value will be the default 
+        bookmark name -->
   </head>
-  <body>
-    <div>
+  <body bgcolor="yellow">
+    <!-- body tag contains everything that appear in the browser window itself-->
+    <div id="recipe1" class="container">
+      <!-- div tag : Used to create logical division (a division within a page), start tag can have attributes like : id, class and format is key="value"-->
       <h1>Recipe for the Best Cinnamon Rolls</h1>
+      <!--h1-h6 : heading tag used to add heading, h1 : largest and h6 : smallest-->
+      <p>
+        <!--p tag : used to contain paragraph of information-->
+        This recipe is based on the information from one of a cookery book.
+      </p>
+      <p>
+        I really enjoyed the recipe myself so I thought better to share it with
+        others
+        <br /><!--br tag: An empty tag (with no body) , used to add a break point and start the following page content from next line-->Happy
+        cooking.
+      </p>
       <h2>Ingredients</h2>
       <h3>For the dough:</h3>
       <ul>
+        <!--ul tag : used to add unordered list using bullets-->
         <li>¾ cup warm milk</li>
+        <!--li tag : used to add list item inside an ordered/unordered list-->
         <li>2 ¼ teaspoons yeast</li>
         <li>¼ cup granulated sugar</li>
         <li>1 egg plus 1 egg yolk</li>
@@ -25,8 +45,10 @@
         <li>¼ cup butter</li>
       </ul>
       <h2>Instructions</h2>
-      <ol>
+      <ol type="I" start="3">
+        <!--ol tag : used to add ordered list using 1,2 (with type="a" attribute using  a,b) (with type="I" attribute using  I,II roman) (with type="i" attribute using  i,ii lowercase roman) (with start="3" to start the list from 3)-->
         <li>Mix the milk with the yeast, sugar, eggs.</li>
+        <!--li tag : used to add list item inside an ordered/unordered list-->
         <li>Melt the butter and add to the mixture.</li>
         <li>Add in the flour and mix until combined into a dough.</li>
         <li>Knead the dough for 10 minuites.</li>
@@ -42,8 +64,9 @@
           Melt the butter for the filling and mix in the sugar and cinnamon.
         </li>
         <li>
-          Spread the filling onto the dough then roll the dough into a swiss
-          roll.
+          Spread &nbsp; &nbsp; &nbsp; the filling onto the dough then roll the
+          <!-- &nbsp; : non breaking space is used to expicitly add extra spacing in content inside html tag-->
+          dough into a swiss roll.
         </li>
         <li>
           Cut the roll into 3cm sections and place flat into a baking tray.
@@ -53,6 +76,12 @@
           until lightly brown.
         </li>
       </ol>
+
+      <pre>
+        <!-- Use to render the text as it apprears in the code considering all the spaces and tabs-->
+        Satistication   100%
+        Happy           100%
+      </pre>
     </div>
   </body>
 </html>
