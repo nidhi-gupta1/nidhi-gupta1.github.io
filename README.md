@@ -34,7 +34,7 @@ MBA : Master in Business Administration (Gold Medalist)
 
 - HTML5
 
-  - (Project : [html5-tutorial](./html5-tutorial))
+  - ([Project](https://nidhi-gupta1.github.io/html5-tutorial/))
 
 - CSS3
 
@@ -46,7 +46,7 @@ MBA : Master in Business Administration (Gold Medalist)
 
 - Bootstrap
 
-  - (Project : /html5-tutorial)
+  - ([Project](https://nidhi-gupta1.github.io/Bootstrap-Tutorial/))
 
 - NodeJS
 
