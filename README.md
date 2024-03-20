@@ -34,7 +34,7 @@ MBA : Master in Business Administration (Gold Medalist)
 
 - HTML5
 
-  - (Project : /html5-tutorial)
+  - (Project : [html5-tutorial](./html5-tutorial))
 
 - CSS3
 
