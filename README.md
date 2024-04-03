@@ -28,7 +28,7 @@ MBA : Master in Business Administration (Gold Medalist)
 ### Languages
 
 - English
-- Finnish (A2 Level)
+- Finnish (B1 Level)
 
 ### Technical Skills
 
