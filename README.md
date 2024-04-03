@@ -42,7 +42,7 @@ MBA : Master in Business Administration (Gold Medalist)
 
 - JavaScript
 
-  - (Project : /html5-tutorial)
+  - ([Project](https://nidhi-gupta1.github.io/JavaScript-tutorial)) 
 
 - Bootstrap
 
