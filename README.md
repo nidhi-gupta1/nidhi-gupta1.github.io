@@ -38,7 +38,7 @@ MBA : Master in Business Administration (Gold Medalist)
 
 - CSS3
 
-  - (Project : /html5-tutorial)
+  - ([Project](https://nidhi-gupta1.github.io/CSS3-tutorial/))
 
 - JavaScript
 
