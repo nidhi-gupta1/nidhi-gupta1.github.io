@@ -8,16 +8,16 @@ With over 5 years of expertise in talent acquisition, I have seamlessly transiti
 ### Experience
 
 - #### ICT Direct Oy
-   - Role: Recruiter
+  - Recruiter
 
  - #### Ryan International Ltd.
-  - Role: Operations Manager
+    - Operations Manager
  
 - #### Carte Blanche Solutions
-   - Role: Talent Acquisition Associate
+   - Talent Acquisition Associate
  
 - #### Friendly Media Private Ltd.
-  - Role: Human Resource Coordinator
+  - Human Resource Coordinator
 
   
 ### Languages
@@ -41,7 +41,8 @@ With over 5 years of expertise in talent acquisition, I have seamlessly transiti
   - ([Project2](https://nidhi-gupta1.github.io/JavaScript-tutorial1))
 
 - Express.js
-  ([Project](https://nidhi-gupta1.github.io/Express.js-tutorial)) -
+
+  - ([Project](https://nidhi-gupta1.github.io/Express.js-tutorial)) 
 
 - Bootstrap
 
@@ -55,14 +56,14 @@ With over 5 years of expertise in talent acquisition, I have seamlessly transiti
 
   - (Project : /html5-tutorial)
 
--Software and Tools:
-  -IDEs: Visual Studio Code
-  -Package Managers: npm (Node.js)
-  -Version Control Systems: Familiarity with Git, and Github.
-  -Database Tools: MySQL
-  -API Testing Tools: Postman
-  -Project Management Tools: Jira
-  - Azure DevOps, Terraform
+### Software and Tools:
+  - **IDEs**: Visual Studio Code
+  - **Package Managers**: npm (Node.js)
+  - **Version Control Systems**: Familiarity with Git, and Github.
+  - **Database Tools**: MySQL
+  - **API Testing Tools**: Postman
+  - **Project Management Tools**: Jira
+  - **Azure DevOps, Terraform**
  
   
 
