@@ -1,29 +1,24 @@
 # Full Stack Developer
 
-I am having 5+ years of overall industrial experience. I started my career in HR Management after persuing my MBA in HR.
-After working in that role for 3 years and gaining knowledge, due to some family circumstances I had to switch my career into Administration
-where I took the role of marketing and sales head in one of a branch of a multi-national school in india. After working there for 2.5 years,
-I moved to Finland with family and blessed with my second child. My daugher has started going to daycare and I am eager to continue with
-my career. As consulted with TE, they suggested me to pursue career in IT.
-
-I am a quick learner and very flexible. During past few monthsthrough self learning, i have gained working knowledge of multiple key technologies, as listed below.
-I am confident that if I got an opportunity to work in this field, I will be very beneficial resource. My diverse experience gives me an extra
-advantage of looking at the things from different angles.
-
+With over 5 years of expertise in talent acquisition, I have seamlessly transitioned into a dynamic role as an IT Full Stack Developer following the birth of my child. Leveraging my extensive background in sourcing, attracting, and retaining top-tier talent across diverse industries, I bring a unique blend of skills to software development. My journey into IT is fueled by a deep passion for technology and a relentless pursuit of excellence. Equipped with a proven track record in communication, project management, and problem-solving, I am committed to delivering innovative solutions and driving impactful change in the field of IT development.
 ### Education Qualification
+ Master in Business Administration (Human Resource & Marketing)
+ Bachelors in Computer Science
 
-MBA : Master in Business Administration (Gold Medalist)
-
-### Exprerience
+### Experience
 
 - #### Friendly Media Private Ltd.
+  - Role: Human Resource Coordinator
 
-  - Role : HR Manager
-  - Responsibilities :
-
-- #### Ryan Internatinal Ltd.
-  - Role : Marketing and Sales Head
-  - Responsibilities :
+ - #### Carte Blanche Solutions
+   - Role: Talent Acquisition Associate
+    
+- #### Ryan International Ltd.
+  - Role: Operations Manager
+ 
+ - #### ICT Direct Oy
+  - Role: Recruiter
+  
 
 ### Languages
 
@@ -60,6 +55,8 @@ MBA : Master in Business Administration (Gold Medalist)
 
   - (Project : /html5-tutorial)
 
-- AWS
+- Azure DevOps, Terraform
+- 
+  -
 
-  - (Project : /html5-tutorial)
+ 
