@@ -50,20 +50,14 @@ With over 5 years of expertise in talent acquisition, I have seamlessly transiti
 
 - NodeJS
 
-  - (Project : /html5-tutorial)
-
-- ReactJS
-
-  - (Project : /html5-tutorial)
+  - ([Project](https://nidhi-gupta1.github.io/Express.js-tutorial)) 
 
 ### Software and Tools:
-  - **IDEs**: Visual Studio Code
-  - **Package Managers**: npm (Node.js)
-  - **Version Control Systems**: Familiarity with Git, and Github.
-  - **Database Tools**: MySQL
-  - **API Testing Tools**: Postman
-  - **Project Management Tools**: Jira
-  - **Azure DevOps, Terraform**
+  - **Language**: HTML, CSS, JavaScript, BootStrap, Express, NodeJS
+  - **Database**: MySQL
+  - **Automation**: Terraform
+  - **Tools**: Visual Studio Code, npm (Node.js), Git, GitHub, Postman, JIRA, Confluence
+  - **Cloud**: Azure, AzureDevOps
  
   
 
