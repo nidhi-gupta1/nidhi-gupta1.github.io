@@ -17,7 +17,7 @@ With over 5 years of expertise in talent acquisition, I have seamlessly transiti
   - Role: Operations Manager
  
  - #### ICT Direct Oy
-  - Role: Recruiter
+   - Role: Recruiter
   
 
 ### Languages
@@ -40,8 +40,8 @@ With over 5 years of expertise in talent acquisition, I have seamlessly transiti
   - ([Project1](https://nidhi-gupta1.github.io/JavaScript-tutorial))
   - ([Project2](https://nidhi-gupta1.github.io/JavaScript-tutorial1))
 
-  -Express.js
-  ([Project](https://nidhi-gupta1.github.io/Express.js-tutorial))
+- Express.js
+  ([Project](https://nidhi-gupta1.github.io/Express.js-tutorial)) -
 
 - Bootstrap
 
