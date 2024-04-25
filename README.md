@@ -7,19 +7,19 @@ With over 5 years of expertise in talent acquisition, I have seamlessly transiti
 
 ### Experience
 
+- #### ICT Direct Oy
+   - Role: Recruiter
+
+ - #### Ryan International Ltd.
+  - Role: Operations Manager
+ 
+- #### Carte Blanche Solutions
+   - Role: Talent Acquisition Associate
+ 
 - #### Friendly Media Private Ltd.
   - Role: Human Resource Coordinator
 
- - #### Carte Blanche Solutions
-   - Role: Talent Acquisition Associate
-    
-- #### Ryan International Ltd.
-  - Role: Operations Manager
- 
- - #### ICT Direct Oy
-   - Role: Recruiter
   
-
 ### Languages
 
 - English
@@ -56,14 +56,14 @@ With over 5 years of expertise in talent acquisition, I have seamlessly transiti
   - (Project : /html5-tutorial)
 
 -Software and Tools:
- -IDEs: Visual Studio Code
- -Package Managers: npm (Node.js)
- -Version Control Systems: Familiarity with Git, and Github.
- -Database Tools: MySQL
- -API Testing Tools: Postman
- -Project Management Tools: Jira
- - Azure DevOps, Terraform
-- 
-  -
+  -IDEs: Visual Studio Code
+  -Package Managers: npm (Node.js)
+  -Version Control Systems: Familiarity with Git, and Github.
+  -Database Tools: MySQL
+  -API Testing Tools: Postman
+  -Project Management Tools: Jira
+  - Azure DevOps, Terraform
+ 
+  
 
  
