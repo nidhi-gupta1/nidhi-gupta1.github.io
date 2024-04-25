@@ -55,7 +55,14 @@ With over 5 years of expertise in talent acquisition, I have seamlessly transiti
 
   - (Project : /html5-tutorial)
 
-- Azure DevOps, Terraform
+-Software and Tools:
+ -IDEs: Visual Studio Code
+ -Package Managers: npm (Node.js)
+ -Version Control Systems: Familiarity with Git, and Github.
+ -Database Tools: MySQL
+ -API Testing Tools: Postman
+ -Project Management Tools: Jira
+ - Azure DevOps, Terraform
 - 
   -
 
