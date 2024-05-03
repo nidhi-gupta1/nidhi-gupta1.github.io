@@ -46,7 +46,7 @@ With over 5 years of expertise in talent acquisition, I have seamlessly transiti
 
 - Bootstrap
 
-  - ([Project](https://nidhi-gupta1.github.io/Bootstrap-Tutorial/))
+  - ([Project](https://nidhi-gupta1.github.io/_Bootstrap-Tutorial/))
 
 - NodeJS
 
